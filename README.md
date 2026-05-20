@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 👋 Hola, soy Mauricio Tabares
+###  Hola, soy Mauricio Tabares
 
 **Estudiante de Ingeniería en la Universidad Distrital Francisco José de Caldas 🎓**  
 Apasionado por construir productos digitales desde el frontend hasta el backend.
@@ -18,7 +18,7 @@ Apasionado por construir productos digitales desde el frontend hasta el backend.
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 ```javascript
 const pentaa555 = {
@@ -26,13 +26,12 @@ const pentaa555 = {
   rol:         "Full Stack Developer",
   enfoque:     ["Interfaces modernas", "APIs robustas", "Código limpio"],
   ciudad:      "Bogotá, Colombia 🇨🇴",
-  actualmente: "Aprendiendo y construyendo sin parar 💪"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -57,14 +56,7 @@ const pentaa555 = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pentaa555&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pentaa555&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-
-</div>
+##  GitHub Stats
 
 <div align="center">
 
@@ -74,7 +66,7 @@ const pentaa555 = {
 
 ---
 
-## 🌈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -84,14 +76,14 @@ const pentaa555 = {
 
 ---
 
-## 🎯 Lo que me mueve
+##  Lo que me mueve
 
 ```python
 metas = [
-    "🧠 Aprender algo nuevo cada día",
-    "🌍 Contribuir a proyectos open source",
-    "🔥 Construir herramientas que importen",
-    "🎓 Graduarme con orgullo de la UDFJC",
+    " Aprender algo nuevo cada día",
+    " Contribuir a proyectos open source",
+    " Construir herramientas que importen",
+    " Graduarme con orgullo de la UDFJC",
 ]
 
 for meta in metas:
@@ -102,10 +94,13 @@ for meta in metas:
 
 <div align="center">
 
-### 📬 Conéctate conmigo
-
+###  Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juan-david-quiroga-742551285/](https://www.linkedin.com/in/mauricio-tabares-a11b21338/))
 [![GitHub](https://img.shields.io/badge/GitHub-Pentaa555-181717?style=for-the-badge&logo=github)](https://github.com/Pentaa555)
-
+[![Instagram](https://img.shields.io/badge/Instagram-idkpenta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idkpenta)
+  <a href="mailto:mauro8976we45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FFE66D,100:FF6B6B&height=120&section=footer" width="100%"/>
